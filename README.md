@@ -1,6 +1,6 @@
 # 🎞️ Subtitles Translator
 
-Minimal Python script developed to machine-translate a `.srt` file (commonly used for subtitles) from a `SOURCE_LANGUAGE` to a `TARGET_LANGUAGE` using Google Translator.
+Minimal Python script developed to machine-translate a `.srt` file (commonly used for subtitles) from a `SOURCE_LANGUAGE` to a `TARGET_LANGUAGE` using Google Translate.
 
 # 📦 Requirements
 
