@@ -22,7 +22,7 @@ Alternatively, you can refer to `requirements.txt` for an extensive list.
 
 Example of use:
 
-![]()
+![example](https://github.com/gvmossato/subtitles-translator/assets/41247052/14cdca30-9811-4807-b29d-e3c37b6c7c1d)
 
 # 📝 About
 
