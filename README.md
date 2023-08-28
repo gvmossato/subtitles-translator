@@ -57,4 +57,4 @@ This script essentially breaks down the file, sending each subtitle string from 
 Before using, consider the following:
 
 * Performance was not a concern, which means excessive use may result in excessive tedium;
-* Since no context is provided, strings are translated independently, potentially leading to imprecise translations.
+* Strings are translated independently, potentially leading to imprecise translations (no context is maintained).
