@@ -40,6 +40,9 @@ for file_idx, filename in enumerate(subs_filenames):
     subs_data_groups = content.split(DATA_GROUP_SEPARATOR)
     subs_data_groups_translated = []
     for group_idx, data_group in enumerate(subs_data_groups):
+        if not data_group.strip():  # Skip empty data groups, solves issue #1
+            continue
+
         num, time, *subs = data_group.split(GROUP_SEPARATOR)
 
         print(
